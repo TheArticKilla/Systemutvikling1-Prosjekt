@@ -1,4 +1,4 @@
-README for Paper Legion
+# Paper Legion
 This is a project for Software Engineering 1 with Database Project Assignment made by Team 17 in Spring 2019 at NTNU in Norway.
 The game is a Player vs Player grid based game. It is a multiplayer game which synchronizes game data over a database.
 
