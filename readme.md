@@ -4,12 +4,12 @@ The game is a Player vs Player grid based game. It is a multiplayer game which s
 
 Team 17 Members: 
 
-Joakim Moe Adolfsen
-Jon Åby Bergquist
-Thomas Bakken Moe
-Andreas Tolnes
-Kristoffer Vanebo
-Eric Younger
+Joakim Moe Adolfsen,
+Jon Åby Bergquist,
+Thomas Bakken Moe,
+Andreas Tolnes,
+Kristoffer Vanebo,
+Eric Younger.
 
 ## Installation manual:
 ```
