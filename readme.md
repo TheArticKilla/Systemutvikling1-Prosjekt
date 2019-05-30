@@ -25,11 +25,10 @@ In-game tutorial on how to play the game.
 
 ### Screenshots:
 
-<img width="600" alt="Screenshot 2019-05-30 at 23 36 49" src="https://user-images.githubusercontent.com/44582953/58666513-d1ec3600-8333-11e9-9430-c503a67a091c.png"> 
-
-<img width="600" src="https://user-images.githubusercontent.com/44582953/58666636-2b546500-8334-11e9-9d22-71bbcac91419.png">
-<img width="600" src="https://user-images.githubusercontent.com/44582953/58666663-4626d980-8334-11e9-9b12-5e62f0369a71.png">
-<img width="600" src="https://user-images.githubusercontent.com/44582953/58666701-5b9c0380-8334-11e9-812c-f6508f95f1ab.png">
+<img width="300" alt="Screenshot 2019-05-30 at 23 36 49" src="https://user-images.githubusercontent.com/44582953/58666513-d1ec3600-8333-11e9-9430-c503a67a091c.png"> 
+<img width="300" src="https://user-images.githubusercontent.com/44582953/58666636-2b546500-8334-11e9-9d22-71bbcac91419.png">
+<img width="300" src="https://user-images.githubusercontent.com/44582953/58666663-4626d980-8334-11e9-9b12-5e62f0369a71.png">
+<img width="300" src="https://user-images.githubusercontent.com/44582953/58666701-5b9c0380-8334-11e9-812c-f6508f95f1ab.png">
 
 
 
