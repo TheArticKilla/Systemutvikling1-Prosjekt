@@ -192,3 +192,8 @@ create index turn_id
 
 create index unit_type_id
   on Units (unit_type_id);
+  
+INSERT INTO Unit_types (unit_type_id, unit_name, max_health, attack, defence_multiplier, min_attack_range, max_attack_range, movement_range, cost) VALUES (1, 'Swordsman', 90, 50, 1, 1, 1, 2, 200);
+INSERT INTO Unit_types (unit_type_id, unit_name, max_health, attack, defence_multiplier, min_attack_range, max_attack_range, movement_range, cost) VALUES (2, 'Archer', 60, 50, 1, 2, 3, 1, 200);
+INSERT INTO Unit_types (unit_type_id, unit_name, max_health, attack, defence_multiplier, min_attack_range, max_attack_range, movement_range, cost) VALUES (3, 'Juggernaut', 120, 50, 2, 1, 1, 1, 250);
+INSERT INTO Unit_types (unit_type_id, unit_name, max_health, attack, defence_multiplier, min_attack_range, max_attack_range, movement_range, cost) VALUES (4, 'Catapult', 50, 50, 1, 4, 8, 1, 350);
